@@ -12,3 +12,4 @@
 		2) geo.mat: the 1st column contains image id (as number), the 2nd column contains image latitud and the 3rd column contains image longitude.
 		3) text.mat contains the text associated to each image.
 
+                images.zip containes raw images.
