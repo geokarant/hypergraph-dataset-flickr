@@ -6,7 +6,7 @@
 %%			    Department of Informatics,
 %%			Aristotle University of Thessaloniki
 %%
-%%				 Copyright 2029.
+%%				 Copyright 2020.
 %%
 %%
 %%     
