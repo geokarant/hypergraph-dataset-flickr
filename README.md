@@ -8,8 +8,8 @@
 
               The following files are included:
 
-		1) images.mat: contains the   id of 99,777 images in string form.
-		2) geo.mat: the 1st column contains image id (as number), the 2nd column contains image latitud and the 3rd column contains image longitude.
+		1) images.mat: contains the id of 99,777 images in string form.
+		2) geo.mat: the 1st column contains image id (as number), the 2nd column contains image latitude and the 3rd column contains image longitude.
 		3) text.mat contains the text associated to each image.
 
-                images.zip contains raw images.
+                Raw images can be downloaded directly from http://aiia.csd.auth.gr/greek-sights-flickr/
