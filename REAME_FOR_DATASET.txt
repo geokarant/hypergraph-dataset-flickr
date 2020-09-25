@@ -20,4 +20,4 @@
 %%     and the 3rd column contains image longitude.
 %%		3) text.mat contains the text associated to each image.
 %%
-%%     images.zip contains raw images
+%%     Raw images can be downloaded directly from http://aiia.csd.auth.gr/greek-sights-flickr/
