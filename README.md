@@ -1,10 +1,9 @@
 # hypergraph-dataset-flickr
 
 ## **IMAGE DATASET TOURISM RECOMMENDATION CRAWLED FROM FLICKR**  
-        Ioannis Sarridis, Georgios Karantaidis and Constantine Kotropoulos
+       ## Ioannis Sarridis, Georgios Karantaidis and Constantine Kotropoulos
 	
-	    Department of Informatics, Aristotle University of Thessaloniki  
-	 Copyright 2019.
+	 ##   Department of Informatics, Aristotle University of Thessaloniki,  Copyright 2020.
 
 
      
