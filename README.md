@@ -1,11 +1,7 @@
 # hypergraph-dataset-flickr
 
 ## **DATASET FOR IMAGE RECOMMENDATION CRAWLED FROM FLICKR**  
-       Ioannis Sarridis, Georgios Karantaidis and Constantine Kotropoulos
-	
-	 Department of Informatics, Aristotle University of Thessaloniki,  Copyright 2020.
-
-
+      
      
     The dataset consists of 99,777 geo-tagged photos. It contains both indoor and outdoor medium sized photos
 		of popular Greek landmarks, various city scenes, and landscapes.
