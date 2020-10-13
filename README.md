@@ -21,12 +21,12 @@
 # Citation
 if you use this dataset in your experiments please cite this work by using the following bibtex entry:
 
-@ARTICLE{Karant20,
-author={G. Karantaidis and I. Sarridis and C. Kotropoulos},
-journal={IEEE Trans. Image Process.},
-title={Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation},
-year={2020, SUBMITTED},
-volume={},
-number={},
-pages={}
-}
+     @ARTICLE{Karant20, 
+     author={G. Karantaidis and I. Sarridis and C. Kotropoulos}, 
+     journal={IEEE Trans. Image Process.}, 
+     title={Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation}, 
+     year={2020, SUBMITTED}, 
+     volume={}, 
+     number={}, 
+      pages={} 
+       }
