@@ -1,7 +1,9 @@
-# hypergraph-dataset-flickr
+#  Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation
 
 ## **DATASET FOR IMAGE RECOMMENDATION CRAWLED FROM FLICKR**  
-      
+ 
+
+ 
      
     The dataset consists of 99,777 geo-tagged photos. It contains both indoor and outdoor medium sized photos
 		of popular Greek landmarks, various city scenes, and landscapes.
@@ -14,3 +16,18 @@
 
                 Raw images could be provided upon request
 		Contact mail: gkarantai@csd.auth.gr
+		
+		
+		
+# Citation
+if you use this dataset in your experiments please cite this work by using the following bibtex entry:
+
+@ARTICLE{Karant20,
+author={G. Karantaidis and I. Sarridis and C. Kotropoulos},
+journal={IEEE Trans. Image Process.},
+title={Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation},
+year={2020, SUBMITTED},
+volume={},
+number={},
+pages={}
+}
