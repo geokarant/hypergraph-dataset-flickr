@@ -31,4 +31,3 @@ if you use this dataset in your experiments please cite this work by using the f
       pages={} 
       }
   
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
