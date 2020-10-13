@@ -1,6 +1,6 @@
 #  Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation
 
-## **DATASET FOR IMAGE RECOMMENDATION CRAWLED FROM FLICKR**  
+ **DATASET FOR IMAGE RECOMMENDATION CRAWLED FROM FLICKR**  
  
 
  
