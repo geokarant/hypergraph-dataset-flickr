@@ -20,8 +20,8 @@
 		
 # Citation
 if you use this dataset in your experiments please cite this work by using the following bibtex entry:
-     ```diff
-     -@ARTICLE{Karant20, 
+     
+     @ARTICLE{Karant20, 
      author={G. Karantaidis and I. Sarridis and C. Kotropoulos}, 
      journal={IEEE Trans. Image Process.}, 
      title={Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation}, 
@@ -30,4 +30,5 @@ if you use this dataset in your experiments please cite this work by using the f
      number={}, 
       pages={} 
       }
-     ```
+  
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
