@@ -13,7 +13,8 @@
 2) geo.mat: the 1st column contains image id (as number), the 2nd column contains image latitude and the 3rd column contains image longitude.
 3) text.mat contains the text associated to each image.
 
- Raw images could be provided upon request 
+ Raw images could be provided upon request        
+ 
  Contact mail: gkarantai@csd.auth.gr
 		
 		
