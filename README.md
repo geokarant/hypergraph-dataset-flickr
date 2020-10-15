@@ -1,11 +1,8 @@
 #  Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation
    
-  The dataset provided in this directory consists of images collected from Flickr, depicting Greek sights, which can be considered as Points of Interest (POIs). Each image is accompanied with auxiliary information,such as title, tags, geo-tags (latitude, longitude). This dataset was employed in our work *"Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation"*, which proposes a hypergraph learning scheme for hypergraph ranking. The proposed method, called HMSO, employs a multi-stage optimization learning scheme. The proposed scheme jointly optimizes hyperedge weights, hypergraph structure by updating the incidence matrix, and ranking for delivering accurate recommendations. The performance metrics disclosed in this paper outperformed the state-of-the-art approaches 
-   
+  The dataset provided in this directory consists of images collected from Flickr, depicting Greek sights, which can be considered as Points of Interest (POIs). Each image is accompanied with auxiliary information,such as title, tags, geo-tags (latitude, longitude). This dataset was employed in our work *"Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation"*, which proposes a hypergraph learning scheme for hypergraph ranking. The proposed approach, called HMSO, employs a multi-stage optimization learning scheme. The proposed scheme jointly optimizes hyperedge weights, hypergraph structure by updating the incidence matrix, and ranking for delivering accurate recommendations. The dataset provided herein was tested on various state-of the-art approaches and the performance metrics indicate that the propose approach outperforms them.
    
  **DATASET FOR IMAGE RECOMMENDATION CRAWLED FROM FLICKR**  
- 
-
  
      
   The dataset consists of 99,777 geo-tagged photos. It contains both indoor and outdoor medium sized photos of popular Greek landmarks, various city scenes, and landscapes.
