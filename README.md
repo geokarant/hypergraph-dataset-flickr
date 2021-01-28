@@ -24,9 +24,9 @@ if you use this dataset in your experiments please cite this work by using the f
      
      @ARTICLE{adapt20, 
      author={G. Karantaidis and I. Sarridis and C. Kotropoulos}, 
-     journal={IEEE Trans. Image Process.}, 
+     journal={}, 
      title={Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation}, 
-     year={2020, SUBMITTED}, 
+     year={}, 
      volume={}, 
      number={}, 
       pages={} 
