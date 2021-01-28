@@ -19,16 +19,16 @@
 		
 		
 		
-# Citation
-if you use this dataset in your experiments please cite this work by using the following bibtex entry:
+%# Citation
+%if you use this dataset in your experiments please cite this work by using the following bibtex entry:
      
-     @ARTICLE{adapt20, 
-     author={G. Karantaidis and I. Sarridis and C. Kotropoulos}, 
-     journal={}, 
-     title={Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation}, 
-     year={}, 
-     volume={}, 
-     number={}, 
-      pages={} 
-      }
+ %    @ARTICLE{adapt20, 
+  %   author={G. Karantaidis and I. Sarridis and C. Kotropoulos}, 
+   %  journal={}, 
+    % title={Adaptive Hypergraph Learning with Multi-Stage Optimizations for Image and Tag Recommendation}, 
+    % year={}, 
+    % volume={}, 
+    % number={}, 
+    %  pages={} 
+    %  }
   
