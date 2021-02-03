@@ -12,7 +12,7 @@
 1) images.mat: contains the id of 99,777 images in string form.
 2) geo.mat: the 1st column contains image id (as number), the 2nd column contains image latitude and the 3rd column contains image longitude.
 3) text.mat contains the text associated to each image.
-
+4) groundtruth: the 1st column contains POI's latitude, the 2nd column contains POI's longitude and the 3rd column contains POI's cluster and the 4th column contains the number of POI's images.
  Raw images could be provided upon request.        
  
  Contact mail: gkarantai@csd.auth.gr
